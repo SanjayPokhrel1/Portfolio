@@ -11,11 +11,13 @@ To analyze Airbnb listings data and uncover insights about pricing, availability
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/sanjay.pokhrel/viz/AirBnBFullProject_17513150558380/Dashboard1)
 
 ## 📊 Dashboard Features
-- **Map View**: Listings by neighborhood with price and availability filters
-- **Price Distribution**: Histogram of nightly rates
-- **Room Type Breakdown**: Comparison of entire homes, private rooms, and shared spaces
-- **Availability Trends**: Listings by number of available days per year
-- **Top Hosts**: Hosts with the most listings and highest average ratings
+- **Interactive Map**: Explore listing locations and pricing geographically.
+- **Filters**: Drill down by room type and neighborhood to customize the analysis.
+- **Price Distribution**: Histogram of nightly rates.
+- **Room Type Breakdown**: Comparison of entire homes, private rooms, and shared spaces.
+- **Availability Trends**: Listings by number of available days per year.
+- **Top Hosts**: Hosts with the most listings and highest average ratings.
+- **Key Metrics**: View summary statistics like average price, total listings, and availability.
 
 ## 📂 Dataset
 - Source: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
@@ -28,7 +30,7 @@ To analyze Airbnb listings data and uncover insights about pricing, availability
 - Seasonal availability patterns suggest peak travel periods.
 
 ## 🧠 What I Learned
-- Creating interactive dashboards with filters, parameters, and tooltips
-- Using calculated fields to derive metrics like price per night and occupancy rate
-- Designing intuitive layouts for geographic and categorical data
-- Translating raw listing data into actionable market insights
+- Creating interactive dashboards with filters, parameters, and tooltips.
+- Using calculated fields to derive metrics like price per night and occupancy rate.
+- Designing intuitive layouts for geographic and categorical data.
+- Translating raw listing data into actionable market insights.
