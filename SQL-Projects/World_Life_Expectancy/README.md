@@ -5,7 +5,7 @@ To explore global life expectancy trends and uncover insights related to health,
 
 ## 🛠️ Tools Used
 - SQL (MySQL)
-- 
+
 ## 📂 Dataset
 The dataset includes country-level data on life expectancy, GDP, population, status (developed/developing), and health indicators such as BMI, alcohol consumption, and immunization rates.
 
