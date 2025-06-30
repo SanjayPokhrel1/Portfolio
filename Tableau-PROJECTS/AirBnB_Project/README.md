@@ -1,4 +1,4 @@
-# 🏡 Airbnb Market Analysis – Tableau Dashboard
+# 🏡 2016 Seattle Airbnb Market Analysis – Tableau Dashboard
 
 ## 📌 Objective
 To analyze Airbnb listings data and uncover insights about pricing, availability, and location-based trends. This Tableau dashboard provides an interactive view of the short-term rental market, helping users understand what drives listing performance.
