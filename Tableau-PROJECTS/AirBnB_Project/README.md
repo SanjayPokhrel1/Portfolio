@@ -8,7 +8,7 @@ To analyze Airbnb listings data and uncover insights about pricing, availability
 - Excel / CSV (for data source)
 
 ## 🌐 Live Dashboard
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/your-username/viz/AirbnbMarketAnalysis/Overview)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/sanjay.pokhrel/viz/AirBnBFullProject_17513150558380/Dashboard1)
 
 ## 📊 Dashboard Features
 - **Map View**: Listings by neighborhood with price and availability filters
