@@ -1,4 +1,4 @@
-FIFA 2026 Dallas Hotel Revenue Forecasting & Pricing Strategy Dashboard
+## FIFA 2026 Dallas Hotel Revenue Forecasting & Pricing Strategy Dashboard
 
 ## Project Overview
 This project analyzes the Dallas hotel market during the FIFA World Cup 2026, focusing on demand surges driven by match schedules, fan travel patterns, and market‑wide compression. The goal is to build a daily forecasting engine and a Power BI pricing strategy dashboard that mirrors real revenue‑management decision‑making.
