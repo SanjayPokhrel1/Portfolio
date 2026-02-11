@@ -13,7 +13,11 @@ Includes real Dallas properties with attributes such as chain scale, location, r
 - Power BI Strategy Dashboard
 Visualizes demand curves, pricing opportunities, forecast accuracy, and event‑specific revenue strategies
 
-Methodology
+## Tools & Technologies
+- Excel – Forecasting engine & automation
+- Power BI – Dashboard & DAX modeling
+
+## Methodology
 1. Data Collection
 - Real Dallas hotel list
 - Verified FIFA 2026 match schedule
@@ -26,7 +30,6 @@ Methodology
 - Compression multipliers
 - Price elasticity assumptions
 - Automated daily metrics (ADR, OCC, RevPAR)
-
 3. Power BI Dashboard
 - Clean star‑schema data model
 - DAX measures for KPIs
@@ -34,11 +37,15 @@ Methodology
 - Executive‑friendly layout and storytelling
 
 ## 📊 Dashboard Preview (PDF)
-
 [📄 View the Dashboard PDF](https://github.com/SanjayPokhrel1/Portfolio/blob/main/PowerBI-PROJECTS/Dallas-Hotel-Forecasting-FIFA2026/2026%20ATT%20Stadium%20Events%20Impact%20on%20Hotels.pdf)
 
-## Tools & Technologies
-- Excel – Forecasting engine & automation
-- Power BI – Dashboard & DAX modeling
+## Executive Summary 
+- FIFA event days generate full compression, with occupancy near 90% across all hotels.
+- Non‑event days fall to ~55% occupancy, confirming demand is event‑driven.
+- ADR strategy is binary: high on event days, flat on non‑event days.
+- Several hotels underpriced themselves despite high compression, leaving revenue on the table.
+- Event days produce 3–4× higher RevPAR, highlighting the importance of proactive pricing.
+- The market demonstrates strong price elasticity, suggesting hotels can push rates earlier and more aggressively.
+
 
 
